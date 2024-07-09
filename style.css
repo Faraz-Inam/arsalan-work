@@ -3,5 +3,8 @@ h1 {
     font-weight: 100;
     color: aqua;
     animation: infinite;
-    
+
+}
+button{
+    color: black;
 }
